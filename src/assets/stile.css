@@ -1,0 +1,139 @@
+.logoStyle {
+    width:100px
+}
+
+.p-datatable .p-datatable-tbody > tr > td {
+    text-align: left;
+    border: 1px solid #e9ecef;
+    border-width: 0 0 1px 0;
+    padding: 1px 10px;
+}
+
+.p-panelmenu .p-panelmenu-header > a {
+    font-size: small;
+}
+
+.p-panelmenu .p-panelmenu-content .p-menuitem .p-menuitem-link {
+    font-size: small;
+}
+
+.p-datatable .p-datatable-tbody > tr > td {
+    font-size: small;
+}
+
+.font-txt-warning-overlay {
+    font-family: 'primeicons';
+    font-size: small;
+    font-weight: bold;
+}
+
+.icon_table {
+    width: 32px !important;
+    height: 32px !important;
+    margin-left: 3px;
+    margin-right: 2px
+}
+
+.icon_table_state {
+    width: 24px !important;
+    height: 24px !important;
+    margin-left: 3px;
+    margin-right: 2px;
+    color: red !important;
+}
+
+.p-dialog .p-dialog-content{
+    height: -webkit-fill-available;
+}
+
+.div-crud-label-field {
+    width: 25%;
+    float: left;
+    margin: 4px 0
+}
+
+.div-crud-field {
+    width: 74%;
+    float: left;
+    margin: 4px 0
+}
+
+.geco-toolbar-button {
+    margin: 0px 20px 0px 10px
+}
+
+.p-fileupload-choose{
+    height: 100%;
+    background: transparent;
+    border-radius: 30px;
+    color: cornflowerblue;
+}
+
+.dayempty {
+    color:#000000;
+    margin-right:0.3%
+}
+.day {
+    color:#000000;
+    border: 1px solid #d0d0d0 !important;
+    border-radius: 50px;
+    margin-right:0.3%
+}
+
+.day:hover {border: 2px solid blue !important;}
+
+.buttontext {
+    color:#000000;
+    border: 3px solid #d0d0d0 !important;
+    border-radius: 50px;
+    margin-right:0.3%
+}
+.buttontextconsolidato {
+    border: 3px solid #d0d0d0 !important;
+    border-radius: 50px;
+    margin-right:0.3%;
+    background-color: #EAE900;
+    color: black !important;
+}
+.buttontextapprova {
+    border: 3px solid #d0d0d0 !important;
+    border-radius: 50px;
+    margin-right:0.3%;
+    background-color: #00B00A;
+    color: white !important;
+}
+.buttontextapprova:hover {border: 2px solid black !important;}
+.buttontextconsolidato:hover {border: 2px solid black !important;}
+.buttontext:hover {border: 2px solid blue !important;}
+
+
+.label-form {
+    font-size: 12px;
+}
+
+.label-form-bold {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.vuoto {
+    border: 1px solid red !important;
+}
+
+.salvato {
+    border: 1px solid red !important;
+    background-color: #ff3300;
+    color: white !important;
+}
+
+.consolidato {
+    border: 1px solid #f8ff00 !important;
+    background-color: #EAE900;
+    color: black !important;
+}
+
+.approvato {
+    border: 1px solid #00FF0F !important;
+    background-color: #00B00A;
+    color: white !important;
+}
