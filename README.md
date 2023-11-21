@@ -1,24 +1,9 @@
-# roundpage
+# ROUNDPAGE
 
-## Project setup
-```
-yarn install
-```
+Consente la rotazione all'interno del frame di una pagina di N url.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Rotazione temporizzata può essere utili per pagine interne  di divulgazione che non sono protette da Cross Origin.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+Utilizza un IFRAME per cui tutti i siti che non possono essere inseriti in un IFRAME sono esclusi.
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Progetto nato per 'ruptare' le pagine dei risultati  elettorali in una rete locale.
